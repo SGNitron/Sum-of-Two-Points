@@ -1,1 +1,1 @@
-# Sum-of-Two-Points
+The following program prints out coordinates based on constructors and user input. The program first prompts the user whether or not they want to run the program. It then prompts the user to enter an x-coordinate and will generate a random y-coordinate. The program will then randomly create another point. Next, the user will be asked what is the sum of the two points and will be prompted to insert their answer. Finally, the program prints out the four points, the two initial points, the user’s points, and the correct point.
